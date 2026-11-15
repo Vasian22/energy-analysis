@@ -22,8 +22,8 @@ Cleaned the data in Python (pandas), aggregated minute readings to hourly averag
 
 ## Charts
 ![Peak hours](charts/peak_hours.png)
-![Weekday vs weekend](charts/weekday_weekend.png)
-![Monthly trend](charts/monthly_trend.png)
+![Weekday vs weekend](charts/Picture3.png)
+![Monthly trend](charts/Picture2.png)
 
 ## Limitations
 - Because of the meter outages, some months have fewer recorded hours. Monthly figures are averages of the hours recorded, so months stay comparable, but a month with a long outage rests on less data.
